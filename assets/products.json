@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cm-b356asg-1",
+    "model": "CM-B356ASG-1",
+    "name": "CM-B356ASG 网椅",
+    "category": "网椅系列",
+    "scene": "员工办公区 / 会议室 / 开放式办公",
+    "image": "assets/images/products/cm-b356asg-1.jpg",
+    "alt": "虹桥办公家具 CM-B356ASG-1 网椅系列白底产品图",
+    "summary": "适合员工办公区、会议室和开放式办公的网椅系列，可用于企业办公家具整体配套和工程项目批量选型。"
+  },
+  {
+    "id": "cm-b357as-21",
+    "model": "CM-B357AS-21",
+    "name": "CM-B357AS 高背网椅",
+    "category": "网椅系列",
+    "scene": "经理室 / 员工办公区 / 高配会议室",
+    "image": "assets/images/products/cm-b357as-21.jpg",
+    "alt": "虹桥办公家具 CM-B357AS-21 高背网椅白底产品图",
+    "summary": "适合经理室、员工办公区和高配会议室的高背网椅，适合中高端办公空间配套。"
+  },
+  {
+    "id": "cm-b347asg-1",
+    "model": "CM-B347ASG-1",
+    "name": "CM-B347ASG 办公网椅",
+    "category": "网椅系列",
+    "scene": "职员办公 / 会议洽谈 / 批量配套",
+    "image": "assets/images/products/cm-b347asg-1.jpg",
+    "alt": "虹桥办公家具 CM-B347ASG-1 办公网椅白底产品图",
+    "summary": "适合职员办公、会议洽谈和批量配套采购的办公网椅。"
+  },
+  {
+    "id": "cm-b355as-1",
+    "model": "CM-B355AS-1",
+    "name": "CM-B355AS 人体工学网椅",
+    "category": "网椅系列",
+    "scene": "企业办公区 / 长时间办公",
+    "image": "assets/images/products/cm-b355as-1.jpg",
+    "alt": "虹桥办公家具 CM-B355AS-1 人体工学网椅白底产品图",
+    "summary": "适合企业办公区和长时间办公使用，强调坐感、结构和稳定性。"
+  },
+  {
+    "id": "cm-b346as-1",
+    "model": "CM-B346AS-1",
+    "name": "CM-B346AS 办公网椅",
+    "category": "网椅系列",
+    "scene": "员工办公区 / 项目批量采购",
+    "image": "assets/images/products/cm-b346as-1.jpg",
+    "alt": "虹桥办公家具 CM-B346AS-1 办公网椅白底产品图",
+    "summary": "适合员工办公区和项目批量采购，可用于企业工位配套。"
+  },
+  {
+    "id": "cm-b318a-2",
+    "model": "CM-B318A-2",
+    "name": "CM-B318A 办公椅",
+    "category": "网椅系列",
+    "scene": "主管办公室 / 员工办公区",
+    "image": "assets/images/products/cm-b318a-2.jpg",
+    "alt": "虹桥办公家具 CM-B318A-2 办公椅白底产品图",
+    "summary": "适合主管办公室和员工办公区，兼顾办公舒适性和空间统一。"
+  },
+  {
+    "id": "cm-b142as-51",
+    "model": "CM-B142AS-51",
+    "name": "CM-B142AS 午休椅",
+    "category": "午休椅系列",
+    "scene": "管理层办公室 / 员工休息办公",
+    "image": "assets/images/products/cm-b142as-51.jpg",
+    "alt": "虹桥办公家具 CM-B142AS-51 午休椅白底产品图",
+    "summary": "适合管理层办公室和员工休息办公场景，兼顾办公与午休功能。"
+  },
+  {
+    "id": "cm-b281ast-1",
+    "model": "CM-B281AST-1",
+    "name": "CM-B281AST 午休办公椅",
+    "category": "午休椅系列",
+    "scene": "办公午休 / 多功能办公区",
+    "image": "assets/images/products/cm-b281ast-1.jpg",
+    "alt": "虹桥办公家具 CM-B281AST-1 午休办公椅白底产品图",
+    "summary": "适合办公午休和多功能办公区，帮助提升办公空间使用体验。"
+  },
+  {
+    "id": "cm-b315ast-31",
+    "model": "CM-B315AST-31",
+    "name": "CM-B315AST 午休椅",
+    "category": "午休椅系列",
+    "scene": "经理室 / 弹性办公空间",
+    "image": "assets/images/products/cm-b315ast-31.jpg",
+    "alt": "虹桥办公家具 CM-B315AST-31 午休椅白底产品图",
+    "summary": "适合经理室和弹性办公空间，适合需要休息功能的办公场景。"
+  },
+  {
+    "id": "cm-b356ast-1",
+    "model": "CM-B356AST-1",
+    "name": "CM-B356AST 高背午休椅",
+    "category": "午休椅系列",
+    "scene": "高配办公室 / 午休办公场景",
+    "image": "assets/images/products/cm-b356ast-1.jpg",
+    "alt": "虹桥办公家具 CM-B356AST-1 高背午休椅白底产品图",
+    "summary": "适合高配办公室和午休办公场景，兼顾商务感与功能性。"
+  },
+  {
+    "id": "cm-f104as-1",
+    "model": "CM-F104AS-1",
+    "name": "CM-F104AS 会议办公椅",
+    "category": "会议椅系列",
+    "scene": "会议室 / 培训室 / 洽谈区",
+    "image": "assets/images/products/cm-f104as-1.jpg",
+    "alt": "虹桥办公家具 CM-F104AS-1 会议办公椅白底产品图",
+    "summary": "适合会议室、培训室和洽谈区，可与会议桌和办公空间整体配套。"
+  },
+  {
+    "id": "cm-f85as-1",
+    "model": "CM-F85AS-1",
+    "name": "CM-F85AS 会议椅",
+    "category": "会议椅系列",
+    "scene": "会议室 / 接待洽谈 / 项目配套",
+    "image": "assets/images/products/cm-f85as-1.jpg",
+    "alt": "虹桥办公家具 CM-F85AS-1 会议椅白底产品图",
+    "summary": "适合会议室、接待洽谈和项目配套，适合批量采购和统一搭配。"
+  }
+]
