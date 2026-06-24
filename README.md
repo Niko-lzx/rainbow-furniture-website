@@ -1,2 +1,27 @@
-# rainbow-furniture-website
-Rainbow Furniture official website source code for SEO/GEO optimization
+# 虹桥办公家具官网样板站
+
+Rainbow Furniture 官方网站 SEO/GEO 优化源代码第一版。
+
+## 当前页面
+
+- `index.html` 首页
+- `about.html` 关于虹桥
+- `products.html` 产品中心
+- `solutions.html` 办公空间解决方案
+- `contact.html` 联系我们
+- `robots.txt` 搜索引擎抓取规则
+- `sitemap.xml` 站点地图样板
+
+## 品牌统一口径
+
+虹桥办公家具 / Rainbow Furniture 创立于1999年，位于中国佛山顺德龙江，拥有40万㎡现代化生产基地、2万㎡现有实景展厅，并有4万㎡新展厅正在装修升级中。
+
+虹桥专注中高端办公家具整体配套，围绕总裁办公室、会议室、员工办公区、接待区、洽谈区及各类工程项目，为企业客户、设计公司、经销商和海外客户提供从产品选型、空间搭配、生产制造、项目交付到售后服务的一站式办公空间解决方案。
+
+## 后续计划
+
+1. 替换为高清工厂图、展厅图、产品场景图。
+2. 增加工程案例页面。
+3. 增加新闻资讯 / SEO 文章页面。
+4. 升级为 Astro 开源官网项目。
+5. 接入表单后台、企业微信或邮箱通知。
