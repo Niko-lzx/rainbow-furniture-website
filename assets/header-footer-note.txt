@@ -1,0 +1,2 @@
+Shared navigation pattern used by static pages:
+Home, About, Products, Solutions, Cases, Quality, Contact.

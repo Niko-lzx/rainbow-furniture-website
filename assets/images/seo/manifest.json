@@ -1,0 +1,114 @@
+[
+  {
+    "file": "office-chair-white-bg.jpg",
+    "source": "01_CM-B356ASG-1 (1).jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 2397,
+    "bytes": 415349
+  },
+  {
+    "file": "reclining-office-chair-white-bg.jpg",
+    "source": "02_CM-B356AST-1 (2).jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 2397,
+    "bytes": 338814
+  },
+  {
+    "file": "lounge-space-solution.jpg",
+    "source": "03_13.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 406461
+  },
+  {
+    "file": "reception-space-solution.jpg",
+    "source": "04_2.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 368281
+  },
+  {
+    "file": "homepage-executive-office.jpg",
+    "source": "05_2Y1A2571.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 262281
+  },
+  {
+    "file": "homepage-meeting-room.jpg",
+    "source": "06_DK2A1481.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 202752
+  },
+  {
+    "file": "homepage-workstations.jpg",
+    "source": "07_2Y1A2808.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 2400,
+    "bytes": 436941
+  },
+  {
+    "file": "airport-furniture-project.jpg",
+    "source": "08_BYN_6333.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 172054
+  },
+  {
+    "file": "education-furniture-project.jpg",
+    "source": "09_微信图片_20250821112753.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 261652
+  },
+  {
+    "file": "healthcare-furniture-project.jpg",
+    "source": "10_DSC06907.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 174444
+  },
+  {
+    "file": "government-office-project.jpg",
+    "source": "11_92.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 682,
+    "bytes": 167964
+  },
+  {
+    "file": "testing-lab.jpg",
+    "source": "12_试验室.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 192710
+  },
+  {
+    "file": "chair-base-testing.jpg",
+    "source": "13_底座检测中心.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 219262
+  },
+  {
+    "file": "gas-lift-testing.jpg",
+    "source": "14_气动杆承重旋转测试.jpg",
+    "status": "ok",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 203608
+  }
+]
